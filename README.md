@@ -73,4 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 I just tried to same as the PSD version.
 
+Live [Demo](https://capable-moxie-e8ac56.netlify.app)
+
 ![PSD version](psd.jpg)
