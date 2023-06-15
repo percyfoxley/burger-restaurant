@@ -47,7 +47,7 @@ export default function Navbar() {
     return (
         <Nav>
             <NavBrand>
-                <img src='/Logo.png' />
+                <img src='/logo.png' />
             </NavBrand>
             <Navigation>
                 <a href='#Home'>Home </a>
